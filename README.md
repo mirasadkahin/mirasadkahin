@@ -1,6 +1,6 @@
 # HELLO ! 
 
-My name is Miraç Sadık Şahin. I am a frontend developer living near France. 
+My name is Miraç Sadık Şahin. I am a frontend developer living near Türkiye. 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
