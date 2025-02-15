@@ -1,4 +1,4 @@
-# Bonjour ! 🥖
+# HELLO ! 
 
 My name is Miraç Sadık Şahin. I am a frontend developer living near France. 
 
